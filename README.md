@@ -1,12 +1,12 @@
-## Multivariate Regression - Fixed and Random Effects Model using Panel Data
+# Multivariate Regression - Fixed and Random Effects Model using Panel Data
 
 
 
-# Project Objective
+## Project Objective
 
-# Outline
+## Outline
 
-# Materials and Methods
+## Materials and Methods
 
 
-# Libraries 
+## Libraries 
