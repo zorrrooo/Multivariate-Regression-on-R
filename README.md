@@ -27,5 +27,5 @@ It can be inferred that commodities release a higher share of carbon dioxide emi
 ## Tools/ Libraries/ Packages
 Excel
 R
-PLML package in R
+PLM package in R
 
