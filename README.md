@@ -9,10 +9,14 @@ Examining the relationship between different categories of trade and carbon diox
 Investigating the impacts of each type of trade on the environment in developing countries using a panel data on 147 developing countries from 1960 to 2020 (World Bank). 
 
 ## Materials and Methods
-### Data: A panel data has been used for major macroeconomic indicators (trade, GDP, FDI, Capital, labor force participation rate) and carbon dioxide emissions from the World Development Indicators database available online. 
-### Model: Three econometric models have been built to compute the total, commodity and service trade. 
-### Estimation Technique: Fixed and Random Effects method. 
-### Variables: Carbondioxide emissions (air quality indicator) as a dependent variable while trade, GDP, FDI, capital and labor force are all independent variables. 
+### Data 
+A panel data has been used for major macroeconomic indicators (trade, GDP, FDI, Capital, labor force participation rate) and carbon dioxide emissions from the World Development Indicators database available online. 
+### Model
+Three econometric models have been built to compute the total, commodity and service trade. 
+### Estimation Technique
+Fixed and Random Effects method. 
+### Variables
+Carbondioxide emissions (air quality indicator) as a dependent variable while trade, GDP, FDI, capital and labor force are all independent variables. 
 
 ## Results
 (1) Overall trade increases CO2 emissions.
